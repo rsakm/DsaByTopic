@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="866c1412-681b-4f49-baab-0ef1f5fb211d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Alpha JAVA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_01/BinaryToDecimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_01/BinomialCoefficient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_01/DecimalToBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_01/Factorial_n.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_01/IsPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_01/LargestOf3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_01/PrimeChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_01/PrintAllPrimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_01/ReverseNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_01/binaryToDecImproved.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02/callByvalAndcallByRef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02/patterns/Butterfly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02/patterns/Diamond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02/patterns/FloydsTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02/patterns/HollowRhombus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02/patterns/Hollowrectange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02/patterns/InvertedAndRotatedHalfPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02/patterns/InvertedhalfPyramidNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02/patterns/Zero_One_Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03Arrays/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03Arrays/BuyAndSellStocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03Arrays/LargestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03Arrays/LinearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03Arrays/MaxSubArraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03Arrays/MaxSubArraySum_KadanesAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03Arrays/MaxSubArraySum_PrefixSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03Arrays/PairsInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03Arrays/PrintSubArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03Arrays/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03Arrays/TrappedWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_04Sorting/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_04Sorting/CountingSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_04Sorting/InbuiltSorting_Java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_04Sorting/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_04Sorting/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_04Sorting/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_05_2DArray/DiagonalSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_05_2DArray/SpiralMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_05_2DArray/StaircaseSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_Strings/CapitalizeTheTitle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_Strings/CapitalizeTitle_Leetcode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_Strings/LargestString_LexicoGraphic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_Strings/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_Strings/ShortestPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_Strings/StringCompression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_Strings/StringCompressionIII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_Strings/SubString.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2wrrHpN0NZIKFJY55dKhU6WGume" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/JAVA/Prep BootCamp/Codes/Alpha JAVA/src/Main.java&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="866c1412-681b-4f49-baab-0ef1f5fb211d" name="Changes" comment="" />
+      <created>1746810449006</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746810449006</updated>
+    </task>
+    <servers />
+  </component>
+</project>
