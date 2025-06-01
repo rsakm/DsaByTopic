@@ -22,8 +22,8 @@ public class RemoveCycle {
         }
 //        find meeting point
         slow = head;
-        Node prev = null;
-        while (slow != null){
+        Node prev = null;   // to keep track of node before fast
+        while (slow != fast){
             slow = slow.next;
             prev = fast;
             fast = fast.next;
@@ -32,5 +32,23 @@ public class RemoveCycle {
         }
 //        remove cycle    fast->prev.next = null
         prev.next = null;
+    }
+
+    public static void main(String[] args) {
+        DetectCycle dc = new DetectCycle();
+        Node head = new Node(1);
+        Node temp = new Node(2);
+        head.next = temp;
+        head.next.next = new Node(3);
+        head.next.next.next =temp;
+
+        LinkedList1 ll = new LinkedList1();
+//        ll.printLl(head);
+        System.out.println(dc.isCycle(head));
+
+        removeCycle(head);
+        System.out.println(dc.isCycle(head));
+        ll.printLl(head);
+
     }
 }

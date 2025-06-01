@@ -5,33 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="866c1412-681b-4f49-baab-0ef1f5fb211d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_010_LinkedLists/DetectCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_010_LinkedLists/FindMiddle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_010_LinkedLists/IsPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_010_LinkedLists/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_010_LinkedLists/LinkedList1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_010_LinkedLists/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_010_LinkedLists/RemoveCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_010_LinkedLists/RemoveNth_LastNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_07_recursion/BinaryStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_07_recursion/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_07_recursion/FirstOccurrenceInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_07_recursion/IsArraySorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_07_recursion/Nth_fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_07_recursion/Print1toN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_07_recursion/PrintNto1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_07_recursion/SumOfNatural.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_07_recursion/XpowN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_07_recursion/lastOccurrenceInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_08_Arraylists/ContainerWithMostWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_08_Arraylists/PairSum2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_08_Arraylists/PairSumI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_08_Arraylists/ReverseArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_08_Arraylists/TwoD_ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_09_DivideAndConquer/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_09_DivideAndConquer/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_09_DivideAndConquer/SortedAndRotatedArraySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_010_LinkedLists/RemoveCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_010_LinkedLists/RemoveCycle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
