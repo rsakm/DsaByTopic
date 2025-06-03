@@ -5,18 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="866c1412-681b-4f49-baab-0ef1f5fb211d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_010_LinkedLists/CircularLL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_010_LinkedLists/DoublyLL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_010_LinkedLists/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_010_LinkedLists/ZigZagLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_011_HashMaps/Implementation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_011_HashMaps/LargestSubArraySumZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_011_HashMaps/MajorityElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_011_HashMaps/SubArraySum_K.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_011_HashMaps/ValidAnagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_012_sets/CountDistinctElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_012_sets/HadshSets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_012_sets/UnionAndIntersectionOfArraya.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
