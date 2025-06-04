@@ -2,7 +2,7 @@ package _012_sets;
 
 import java.util.HashSet;
 
-public class HadshSets {
+public class HashSets {
     public static void main(String[] args) {
         HashSet<Integer> hs = new HashSet<>();
         hs.add(1);
@@ -21,5 +21,4 @@ public class HadshSets {
         hs.clear();
         System.out.println(hs.isEmpty());
     }
-
 }
