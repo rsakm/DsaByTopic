@@ -11,7 +11,7 @@ public class HashSets {
         System.out.println(hs);
 
         hs.add(3);
-        hs.add(2);
+        hs.add(1);
         System.out.println(hs);
 
         System.out.println(hs.contains(2));
