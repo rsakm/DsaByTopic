@@ -1,5 +1,19 @@
 package _03Arrays;
 
+
+/*
+* Leetcode: 540. Single Element in a Sorted Array
+*
+* You are given a sorted array consisting of only integers
+* where every element appears exactly twice, except for one element
+* which appears exactly once.
+
+Return the single element that appears only once.
+
+Your solution must run in O(log n) time and O(1) space.
+*
+* */
+
 public class SingleNonDuplicate_SortedArray {
     public static int singleNonDuplicate(int[] nums) {
         int left = 0, right = nums.length - 1;
