@@ -1,5 +1,13 @@
 package _06_Strings;
 
+/*
+* Leetcode: 459. Repeated Substring Pattern
+*
+* Given a string s, check if it can be constructed by taking a substring of it
+* and appending multiple copies of the substring together.
+*
+* */
+
 public class RepeatedSubstringPattern {
     public static boolean repeatedSubstringPattern(String s) {
         int n = s.length();
