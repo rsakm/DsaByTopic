@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="866c1412-681b-4f49-baab-0ef1f5fb211d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_03Arrays/FindDuplicate.java" afterDir="false" />
-    </list>
+    <list default="true" id="866c1412-681b-4f49-baab-0ef1f5fb211d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
