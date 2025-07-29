@@ -1,5 +1,19 @@
 package _00_MathsProblem;
 
+/*
+
+Leetcode: 1154. Day of the Year
+
+
+Given a string date representing a Gregorian calendar date formatted as YYYY-MM-DD,
+return the day number of the year.
+
+Example 1:
+
+Input: date = "2019-01-09"
+Output: 9
+Explanation: Given date is the 9th day of the year in 2019.*/
+
 public class GuessTheDayofTheYear {
     public static int dayOfYear(String date) {
         int[] daysInMonth = {31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
